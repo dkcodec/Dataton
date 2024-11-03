@@ -1,17 +1,36 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# Idea
+
+Develop innovative approaches to optimize aviation processes
+logistics, increase efficiency, improve user experience and
+propose ideas to simplify logistics operations in aviation.
+
+## References
+
+[https://qtavia.com/articles/multimodalnye-perevozki-gruzov-vidy-i-osobennosti/](qtavia)
+[https://sch-logistic.ru/about-us/articles/multimodalnyie-perevozki-gruzov-vidyi-i-osobennosti/](sch-logistic)
+[https://centraltrans.ru/articles/multimodalnye-perevozki-vidy-osobennosti](centraltrans)
+[https://tradest.ru/stati/multimodalnye-perevozki-gruzov/](tradest)
+[https://www.deltaglobalsolutions.com/aerospace?lang=ru](deltaglobalsolutions)
+[https://logistics.ru/logisticheskie-platformy](logistics)
+[https://www.searates.com/ru/integrations/api-parcel-tracking/](searates)
+[https://www.trackingmore.com/ru](trackingmore)
+[https://www.ship24.com/ru/tracking-api](ship24)
+[https://cyberleninka.ru/article/n/sostoyanie-i-strategii-razvitiya-otrasli-aviatsionnoy-logistiki](cyberleninka)
+[https://scilead.ru/article/5335-vnedrenie-avtomatizirovannikh-sistem-upravlen](scilead)
+[https://scs-aero.ru/blog/glavnye-trendy-logistiki-v-rossii-v-2024-25-godah/](scs-aero)
+[https://www.mordorintelligence.com/ru/industry-reports/air-freight-forwarding-market](mordorintelligence)
+[https://leverx.com/ru/newsroom/trendy-logisticheskoy-otrasli](leverx)
+
 ## Getting Started
 
 First, run the development server:
 
 ```bash
+npm i
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
