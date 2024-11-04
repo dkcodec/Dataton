@@ -8,20 +8,20 @@ propose ideas to simplify logistics operations in aviation.
 
 ## References
 
-[https://qtavia.com/articles/multimodalnye-perevozki-gruzov-vidy-i-osobennosti/](qtavia)
-[https://sch-logistic.ru/about-us/articles/multimodalnyie-perevozki-gruzov-vidyi-i-osobennosti/](sch-logistic)
-[https://centraltrans.ru/articles/multimodalnye-perevozki-vidy-osobennosti](centraltrans)
-[https://tradest.ru/stati/multimodalnye-perevozki-gruzov/](tradest)
-[https://www.deltaglobalsolutions.com/aerospace?lang=ru](deltaglobalsolutions)
-[https://logistics.ru/logisticheskie-platformy](logistics)
-[https://www.searates.com/ru/integrations/api-parcel-tracking/](searates)
-[https://www.trackingmore.com/ru](trackingmore)
-[https://www.ship24.com/ru/tracking-api](ship24)
-[https://cyberleninka.ru/article/n/sostoyanie-i-strategii-razvitiya-otrasli-aviatsionnoy-logistiki](cyberleninka)
-[https://scilead.ru/article/5335-vnedrenie-avtomatizirovannikh-sistem-upravlen](scilead)
-[https://scs-aero.ru/blog/glavnye-trendy-logistiki-v-rossii-v-2024-25-godah/](scs-aero)
-[https://www.mordorintelligence.com/ru/industry-reports/air-freight-forwarding-market](mordorintelligence)
-[https://leverx.com/ru/newsroom/trendy-logisticheskoy-otrasli](leverx)
+[qtavia](https://qtavia.com/articles/multimodalnye-perevozki-gruzov-vidy-i-osobennosti/)
+[sch-logistic](https://sch-logistic.ru/about-us/articles/multimodalnyie-perevozki-gruzov-vidyi-i-osobennosti/)
+[centraltrans](https://centraltrans.ru/articles/multimodalnye-perevozki-vidy-osobennosti)
+[tradest](https://tradest.ru/stati/multimodalnye-perevozki-gruzov/)
+[deltaglobalsolutions](https://www.deltaglobalsolutions.com/aerospace?lang=ru)
+[logistics](https://logistics.ru/logisticheskie-platformy)
+[searates](https://www.searates.com/ru/integrations/api-parcel-tracking/)
+[trackingmore](https://www.trackingmore.com/ru)
+[ship24](https://www.ship24.com/ru/tracking-api)
+[cyberleninka](https://cyberleninka.ru/article/n/sostoyanie-i-strategii-razvitiya-otrasli-aviatsionnoy-logistiki)
+[scilead](https://scilead.ru/article/5335-vnedrenie-avtomatizirovannikh-sistem-upravlen)
+[scs-aero](https://scs-aero.ru/blog/glavnye-trendy-logistiki-v-rossii-v-2024-25-godah/)
+[mordorintelligence](https://www.mordorintelligence.com/ru/industry-reports/air-freight-forwarding-market)
+[leverx](https://leverx.com/ru/newsroom/trendy-logisticheskoy-otrasli)
 
 ## Getting Started
 
